@@ -1,0 +1,2 @@
+# 2022_2_KNU_GETIT_React
+2022-2 GETIT React 교육
